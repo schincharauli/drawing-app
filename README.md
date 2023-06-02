@@ -17,4 +17,4 @@ Links
 
 Solution URL: https://github.com/schincharauli/drawing-app
 
-Live Site URL: https://neon-squirrel-7947b6.netlify.app/
+Live Site URL: https://lucent-basbousa-e8fad7.netlify.app/
